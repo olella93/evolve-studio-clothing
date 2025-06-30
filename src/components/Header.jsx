@@ -7,7 +7,7 @@ function Header() {
     <header className="flex items-center justify-between p-4 shadow-md bg-white sticky top-0 z-50">
       <div className="flex items-center space-x-2">
         <img src={logo} alt="Evolve Studio Logo" className="h-10 w-auto" />
-        <span className="text-xl font-bold text-primary">Evolve Studio</span>
+        <span className="text-xl font-bold text-primary"></span>
       </div>
       <nav className="hidden md:flex space-x-6 text-charcoal">
         <a href="/" className="hover:text-primary">Home</a>
