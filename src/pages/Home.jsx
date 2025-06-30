@@ -7,25 +7,25 @@ const products = [
     id: 1,
     name: 'Floral Summer Dress',
     price: '3,500',
-    image: 'https://source.unsplash.com/random/400x400?dress',
+    image: 'https://images.unsplash.com/photo-1496747611176-843222e1e57c?q=80&w=1746&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
   },
   {
     id: 2,
     name: 'Denim Jacket',
     price: '5,200',
-    image: 'https://source.unsplash.com/random/400x400?jacket',
+    image: 'https://images.unsplash.com/photo-1709672262859-68cb9b39ae4f?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8ODB8fGRlbmltJTIwamFja2V0JTIwbGFkaWVzfGVufDB8fDB8fHww',
   },
   {
     id: 3,
-    name: 'Casual Sneakers',
+    name: 'Zenith Crop Top',
     price: '4,800',
-    image: 'https://source.unsplash.com/random/400x400?sneakers',
+    image: 'https://images.unsplash.com/photo-1564257631407-4deb1f99d992?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fGNyb3AlMjB0b3B8ZW58MHx8MHx8fDA%3D',
   },
   {
     id: 4,
     name: 'Linen Shirt',
     price: '3,000',
-    image: 'https://source.unsplash.com/random/400x400?shirt',
+    image: 'https://images.unsplash.com/photo-1738651875559-692dfb77b185?w=800&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDB8fGxpbmVuJTIwc2hpcnQlMjBsYWRpZXN8ZW58MHx8MHx8fDA%3D',
   },
 ];
 
